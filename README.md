@@ -1,4 +1,4 @@
-# Subspace-Consensus Dominating Skyline
+# Algorithms for the Subspace-Consensus Dominating Skyline query
 This repository contains the C++ code of the implementation of two algorithms (SCDS and BL) for processing the Subspace-Consensus Dominating Skyline query, proposed in the related paper. This query type combines bounded output (k items), no mandatory scoring function, robustness across a family of user-selected attribute subspaces, and domination reasoning.
 
 The SCDS algorithm is an efficient algorithm that employs index structures, sorting-based skyline methods, pruning rules, bounds, and a top-k heap. 
