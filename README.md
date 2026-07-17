@@ -16,3 +16,5 @@ There are four RUN modes which can be used in the main function of the code:
 4 = run BL on data loaded from a .csv file
 
 (the desired parameters can be defined inside the main function).
+
+(compile with -O3 for the fastest execution)
